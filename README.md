@@ -1,4 +1,7 @@
 # Hackathon Sponsorship
+
+### *THIS IS A WORK IN PROGRESS!*
+
 ## Welcome!
 This repository contains detailed guides and starter templates for hackathon organizers to begin tackling the monstrosity that is hackathon sponsorship and finance.
 
@@ -10,7 +13,7 @@ This guide is intended for organizers of all levels - from total beginners to ad
 This guide is free, open-source, and meant to be improved! Fork and star the repository, send me feedback (see the ```Contact Information``` section below), and feel free to make pull requests as you see fit.
 
 ## Directory Structure
-In the root of this repository, you'll find this README, a comprehensive guide to hackathon sponsorship called _hackathon-sponsorship-guide.md_, and a master spreadsheet to help organize your sponsorship process as a whole called _master-spreadsheet.md_. 
+In the root of this repository, you'll find this README, a comprehensive guide to hackathon sponsorship called _hackathon-sponsorship-guide.md_, and a master spreadsheet to help organize your sponsorship process as a whole called _sponsorship-spreadsheet.xlsx_. 
 
 You'll also find my HackCon V workshop materials in the ```hackcon-v/``` directory, guides to sponsorship calls in the ```calls``` directory, guides and samples for sponsorship emails in the ```emails/``` folder, and budget and finance resources in the ```finance/``` directory. 
 
